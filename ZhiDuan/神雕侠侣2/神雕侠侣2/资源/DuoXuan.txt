@@ -1,0 +1,50 @@
+{
+    "checkBox": [
+       {
+            "checkBoxId": "竞技场",
+            "isCheck":"false",
+            "event": [
+                {
+                    "Id": "竞技场次数",
+                    "status": 0
+                }
+        
+            ]
+        },
+         {
+            "checkBoxId": "竞技场",
+            "isCheck":"true",
+            "event": [
+                  {
+                    "Id": "竞技场次数",
+                    "status": 1
+                }
+        
+            ]
+        }
+		
+		,       {
+            "checkBoxId": "CDKSwitch",
+            "isCheck":"false",
+            "event": [
+                {
+                    "Id": "CDK",
+                    "status": 0
+                }
+        
+            ]
+        },
+         {
+            "checkBoxId": "CDKSwitch",
+            "isCheck":"true",
+            "event": [
+                  {
+                    "Id": "CDK",
+                    "status": 1
+                }
+        
+            ]
+        }
+		
+        ]
+}
